@@ -1,0 +1,1 @@
+<BlogList blogs={blogs.filter((blog)=> blog.author=== 'mario')} title="Mario's Blog" handleDelete={handleDelete}/> 
