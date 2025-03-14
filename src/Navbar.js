@@ -1,9 +1,9 @@
 import { Link } from 'react-router-dom';
 
 const Navbar = () => {
-    return ( 
+    return (
         <nav className="navbar">
-            <h1>The Doho Blog</h1>
+            <h1>The SKP Blog</h1>
             <div className="links">
                 <Link to="/">Home</Link>
                 <Link to="/create"
@@ -14,7 +14,7 @@ const Navbar = () => {
                 }} */>New Blog</Link>
             </div>
         </nav>
-     );
+    );
 }
- 
+
 export default Navbar;
