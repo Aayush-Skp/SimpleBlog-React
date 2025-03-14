@@ -40,6 +40,7 @@ Welcome to the **Blog Posting Platform** repository! This platform allows users 
 ### Blog Preview Page
 
 ![Blog Preview](assets/pic1.png)
+![Blog Preview2](assets/pic3.png)
 
 ### Create New Blog Page
 
