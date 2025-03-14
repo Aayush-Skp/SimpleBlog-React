@@ -22,7 +22,7 @@ function App() {
               <BlogDetails />
             </Route>
             <Route path="*">
-              <NotFound/>
+              <NotFound />
             </Route>
           </Switch>
         </div>

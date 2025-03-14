@@ -1,6 +1,6 @@
 # Blog Posting Platform
 
-Welcome to the **Blog Posting Platform** repository! This platform allows users to create, post, and share blogs easily. It also supports prototype creation using blogs.
+Welcome to the **Blog Posting Platform** repository! This platform allows users to create, delete, and read blogs easily. It also supports prototype creation using blogs.
 
 ## Features
 

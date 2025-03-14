@@ -33,7 +33,7 @@ const useFetch = (url) => {
                     }
 
                 })
-        }, 1000);     //to simulate the idea of taking little bit longer to fetch data
+        }, 1000);
 
         return () => abortCont.abort();
 
