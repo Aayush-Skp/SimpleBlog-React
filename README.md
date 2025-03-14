@@ -35,6 +35,16 @@ Welcome to the **Blog Posting Platform** repository! This platform allows users 
    npm start
    ```
 
+## Preview
+
+### Blog Preview Page
+
+![Blog Preview](assets/pic1.png)
+
+### Create New Blog Page
+
+![Create Blog](assets/pic2.png)
+
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests.
